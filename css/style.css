@@ -5,12 +5,12 @@
 }
 
 :root {
-    b-main: #223e61;
+    --b-main: #223e61;
 
 }
 
 body {
-    background: var(b-main);
+    background: var(--b-main-main);
     font-family: Nunito, sans-serif;
     color: #fff;
 }
