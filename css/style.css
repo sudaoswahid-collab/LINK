@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    b-main: #223e61;
+
+}
+
+body {
+    background: var(b-main);
+    font-family: Nunito, sans-serif;
+    color: #fff;
+}
